@@ -6,6 +6,14 @@
 
  Paso   Acción                       	Notas
 ====== ============================ 	================================
+(#06)  git log
+       git checkout <commit>
+
+(#07)  git checkout -b Antecendentes
+(#08)  Crear antecedentes.txt
+(#09)  git add antecedentes.txt
+       git commit -m "Paso 09"
+
 (#10)  git checkout master
 (#11)  git push origin DatosPersonales
   
@@ -13,3 +21,6 @@
 					DatosPersonales Recursiva
 (#13)  git add .
        git commit -m "Paso 13"
+
+
+
