@@ -1,11 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):             %%
+%% Alumno (Apellidos, Nombre): Algorri Ruiz, Sergio                 %%
 %%==================================================================%%
 
  Paso   Acción                       	Notas
 ====== ============================ 	================================
+(#01)  git clone URL
+(#02)  git checkout -b DatosPersonales
+(#03)  72206971-N. Vacuna Pfizer
+
 (#06)  git log
        git checkout <commit>
 
@@ -22,5 +26,9 @@
 (#13)  git add .
        git commit -m "Paso 13"
 
+(#14)  git merge Antecedentes
+(#15)  git merge DatosPersonales
+(#16)  git add bitacora.txt
+       git commit -m "Paso 16"
 
 
