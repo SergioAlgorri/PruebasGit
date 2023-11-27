@@ -31,4 +31,9 @@
 (#16)  git add bitacora.txt
        git commit -m "Paso 16"
 
+(#17)  git tag FusionTerminada
+(#18)  git push
+(#19)  git add bitacora.txt
+       git commit -m "Paso 19"
+       git push
 
