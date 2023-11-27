@@ -4,5 +4,12 @@
 %% Alumno (Apellidos, Nombre):             %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                       	Notas
+====== ============================ 	================================
+(#10)  git checkout master
+(#11)  git push origin DatosPersonales
+  
+(#12)  				        Antecedentes Fast-Forward
+					DatosPersonales Recursiva
+(#13)  git add .
+       git commit -m "Paso 13"
