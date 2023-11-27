@@ -4,5 +4,12 @@
 %% Alumno (Apellidos, Nombre):             %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                       	Notas
+====== ============================ 	================================
+(#06)  git log
+       git checkout <commit>
+
+(#07)  git checkout -b Antecendentes
+(#08)  Crear antecedentes.txt
+(#09)  git add antecedentes.txt
+       git commit -m "Paso 09"
